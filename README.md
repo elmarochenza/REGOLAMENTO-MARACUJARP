@@ -2,6 +2,8 @@
 
 Benvenuto nel regolamento di **Maracuja Roleplay**. È fondamentale leggere e comprendere le regole del server prima di entrare nel gioco. Il rispetto di queste regole è essenziale per garantire un'esperienza di gioco equa e divertente per tutti.
 
+![image](https://github.com/user-attachments/assets/45f857e4-e000-43bc-a05b-ba5cdfbbbc1b)
+
 ---
 
 ## **1. 🌐 Regole Generali**
