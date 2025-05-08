@@ -4,7 +4,7 @@ Benvenuto nel regolamento di **Maracuja Roleplay**. È fondamentale leggere e co
 
 ---
 
-## **1. Regole Generali**
+## **1. 🌐 Regole Generali**
 
 ### **1.1 Rispetto verso gli altri**
 - Tratta ogni giocatore con **rispetto**, indipendentemente dal suo ruolo o fazione. Comportamenti come insulti, linguaggio offensivo o minacce non sono tollerati.
@@ -28,7 +28,7 @@ Benvenuto nel regolamento di **Maracuja Roleplay**. È fondamentale leggere e co
 
 ---
 
-## **2. Regole Criminali**
+## **2. 🔫 Regole Criminali**
 
 ### **2.1 Rapine e Crimini**
 - Le rapine e i crimini devono essere **realistici** e giustificati all'interno del contesto di gioco. È vietato compiere crimini senza una motivazione valida.
@@ -44,7 +44,7 @@ Benvenuto nel regolamento di **Maracuja Roleplay**. È fondamentale leggere e co
 
 ---
 
-## **3. Regole Forze dell'Ordine**
+## **3. 🚨 Regole Forze dell'Ordine**
 
 ### **3.1 Arresti e Procedura Legale**
 - I poliziotti devono seguire una **procedura chiara** quando arrestano un giocatore. Ogni arresto deve essere giustificato e spiegato in modo chiaro.
@@ -68,7 +68,7 @@ Benvenuto nel regolamento di **Maracuja Roleplay**. È fondamentale leggere e co
 
 ---
 
-## **5. Fazioni**
+## **5. 🐍 Fazioni**
 
 ### **5.1 Fazioni Legali**
 - Le fazioni **legali** operano secondo la legge. La **polizia**, i **medici** e i lavoratori legali fanno parte di queste fazioni e devono rispettare le leggi del server.
@@ -80,7 +80,7 @@ Benvenuto nel regolamento di **Maracuja Roleplay**. È fondamentale leggere e co
 
 ---
 
-## **6. Regole Discord & OOC**
+## **6. 🔗 Regole Discord & OOC**
 
 ### **6.1 Comunicazione OOC**
 - La comunicazione **fuori dal gioco** (OOC) deve avvenire tramite canali appositi come **Discord**. Non è permesso usare chat OOC nel gioco.
